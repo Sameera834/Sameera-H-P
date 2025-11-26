@@ -1,0 +1,6 @@
+CandidateID,CandidateName,Email,Password,Status,images
+1,Sameera,john.doe@example.com,password1,Completed,1234.jpg
+2,Harshith,jane.doe@example.com,password2,Ended,harshith.jpg
+3,Hariharan,bob.smith@example.com,password3,Waiting,hari.jpg
+4,chirag,alice.johnson@example.com,password4,Ended,chirag1.jpg
+5,Amith,mike.brown@example.com,password5,Completed,Amith.jpg
